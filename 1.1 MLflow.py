@@ -65,7 +65,7 @@ def rounded_taxi_data(taxi_data_df):
 # COMMAND ----------
 
 # MAGIC %md 
-# MAGIC # Load the dataset
+# MAGIC ## Load the dataset
 # MAGIC Load the NYC taxi dataset which will be used for training a regression model to predict taxi fares.
 
 # COMMAND ----------
